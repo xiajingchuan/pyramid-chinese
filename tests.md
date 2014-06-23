@@ -1,4 +1,4 @@
-##11.5 Templating with Chameleon Text Templates
+##11.5 模板
 Pyramid also allows for the use of templates which are composed entirely of non-XML text via
 Chameleon. To do so, you can create templates that are entirely composed of text except for ${name}
 -style substitution points.
