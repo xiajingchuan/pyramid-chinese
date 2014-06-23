@@ -1,9 +1,9 @@
-# The Pyramid Web Framework
+### The Pyramid Web Framework
 
 Pyramid is a small, fast, down-to-earth Python web framework. It is developed as part of the Pylons Project. It is licensed under a BSD-like license.
 
 Here is one of the simplest Pyramid applications you can make:
-```python
+```
 from wsgiref.simple_server import make_server
 from pyramid.config import Configurator
 from pyramid.response import Response 
