@@ -17,3 +17,4 @@ When the template is rendered, it will show:
 Hello, world!
 See also Built-In Renderers for more general information about renderers, including Chameleon text
 renderers.
+(https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Art/stackPoppedOneString_2x.png)
