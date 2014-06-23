@@ -1,0 +1,16 @@
+第一章
+---------------------
+## PYRAMID介绍
+Pyramid是一个通用的、开源的Python web应用开发框架。它主要的目标是让开发web应用更加的简便。
+```
+Frameworks vs. Libraries
+A framework differs from a library in one very important way: library code is always called by code
+that you write, while a framework always calls code that you write. Using a set of libraries to create
+an application is usually easier than using a framework initially, because you can choose to cede
+control to library code you have not authored very selectively. But when you use a framework, you
+are required to cede a greater portion of control to code you have not authored: code that resides in
+the framework itself. You needn’t use a framework at all to create a web application using Python. A
+rich set of libraries already exists for the platform. In practice, however, using a framework to create
+an application is often more practical than rolling your own via a set of libraries if the framework
+provides a set of facilities that fits your application requirements
+```
