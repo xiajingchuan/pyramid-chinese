@@ -1,4 +1,4 @@
-### The Pyramid Web Framework
+###  Pyramid Web 框架
 
 Pyramid is a small, fast, down-to-earth Python web framework. It is developed as part of the Pylons Project. It is licensed under a BSD-like license.
 
