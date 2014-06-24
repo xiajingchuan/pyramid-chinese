@@ -1,4 +1,4 @@
 pyramid-chinese
 ===============
 
-pyramid框架中文版
+pyramid 1.4中文版
